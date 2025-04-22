@@ -92,7 +92,7 @@ terraform apply
 ---
 
 # 🙌 Author
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-Built with ❤️ by @malthaf9
+*  Built with ❤️ by [@malthaf9](https://github.com/malthaf9) 
+ 
 
-Feel free to fork, star ⭐, and improve it!
+  Feel free to fork, star ⭐, and improve it!
