@@ -64,13 +64,13 @@ http://<alb-dns-name>
 ```
 
 #  Outputs
-vpc_id
+ 1. vpc_id
 
-public_subnets
+ 2. public_subnets
 
-private_subnets
+ 3. private_subnets
 
-alb_dns_name → Visit this to test the service
+ 4. alb_dns_name → Visit this to test the service
 
 
 
