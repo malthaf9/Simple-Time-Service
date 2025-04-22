@@ -46,8 +46,8 @@ http://<alb-dns-name>
 
 ```bash
 cd app
-docker build -t althaf24/simpletimeservice:latest .
-docker push althaf24/simpletimeservice:latest
+docker build -t <docker_hub_image_name> .
+docker push <docker_hub_image_name>
 ```
 
 ---
